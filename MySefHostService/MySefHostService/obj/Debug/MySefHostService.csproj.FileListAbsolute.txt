@@ -1,0 +1,6 @@
+c:\users\tiagos\documents\visual studio 2015\Projects\MySefHostService\MySefHostService\bin\Debug\MySefHostService.exe.config
+c:\users\tiagos\documents\visual studio 2015\Projects\MySefHostService\MySefHostService\bin\Debug\MySefHostService.exe
+c:\users\tiagos\documents\visual studio 2015\Projects\MySefHostService\MySefHostService\bin\Debug\MySefHostService.pdb
+c:\users\tiagos\documents\visual studio 2015\Projects\MySefHostService\MySefHostService\obj\Debug\MySefHostService.csprojResolveAssemblyReference.cache
+c:\users\tiagos\documents\visual studio 2015\Projects\MySefHostService\MySefHostService\obj\Debug\MySefHostService.exe
+c:\users\tiagos\documents\visual studio 2015\Projects\MySefHostService\MySefHostService\obj\Debug\MySefHostService.pdb
